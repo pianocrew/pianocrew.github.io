@@ -1,1 +1,1 @@
-我对LLM, GNN, RL, NLP, CV等领域感兴趣
+我对LLM, GNN, RL, NLP, CV等方向感兴趣
